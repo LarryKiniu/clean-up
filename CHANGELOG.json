@@ -2,6 +2,33 @@
   "name": "clean-up",
   "entries": [
     {
+      "date": "Thu, 12 Aug 2021 13:36:00 GMT",
+      "tag": "clean-up_v1.0.11",
+      "version": "1.0.11",
+      "comments": {
+        "patch": [
+          {
+            "author": "lkiniu@microsoft.com",
+            "package": "clean-up",
+            "comment": "rename changfiles",
+            "commit": "741a6ad3a248232b465c4663cb9c21fcdf0a8426"
+          },
+          {
+            "author": "lkiniu@microsoft.com",
+            "package": "clean-up",
+            "comment": "update readme",
+            "commit": "741a6ad3a248232b465c4663cb9c21fcdf0a8426"
+          },
+          {
+            "author": "lkiniu@microsoft.com",
+            "package": "clean-up",
+            "comment": "track changelog files",
+            "commit": "741a6ad3a248232b465c4663cb9c21fcdf0a8426"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 12 Aug 2021 13:33:39 GMT",
       "tag": "clean-up_v1.0.10",
       "version": "1.0.10",

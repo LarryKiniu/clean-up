@@ -139,10 +139,8 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-beachball@^2.10.2:
+"beachball@file:../beachball":
   version "2.10.2"
-  resolved "https://registry.yarnpkg.com/beachball/-/beachball-2.10.2.tgz#f4dd54ea16273350ab0323f32cc6587411165304"
-  integrity sha512-+KGohNojbgZtVQGpPCQwHgOgtmes9Q4DbPwxTFZzPofRtYySUyAoWcQl+JMvILPUD6GH7rKSGDhehLvGlIjtCw==
   dependencies:
     cosmiconfig "^6.0.0"
     execa "^4.0.3"
