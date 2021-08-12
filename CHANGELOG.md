@@ -1,8 +1,17 @@
 # Change Log - clean-up
 
-This log was last generated on Thu, 12 Aug 2021 13:31:44 GMT and should not be manually modified.
+This log was last generated on Thu, 12 Aug 2021 13:33:39 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.10
+
+Thu, 12 Aug 2021 13:33:39 GMT
+
+### Patches
+
+- track changelog files (lkiniu@microsoft.com)
+- update readme (lkiniu@microsoft.com)
 
 ## 1.0.9
 
