@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "change": "yarn beachball",
-    "check": "yarn beachball check --branch origin/main --since main --kep-change-files --no-fetch",
-    "bump": "yarn beachball bump --branch origin/main --since main --kep-change-files --no-fetch"
+    "check": "yarn beachball check --branch origin/main --since main --keep-change-files --no-fetch",
+    "bump": "yarn beachball bump --branch origin/main --since main --keep-change-files --no-fetch"
   },
   "author": "Larry Kiniu",
   "license": "MIT",
