@@ -1,12 +1,12 @@
 {
   "name": "clean-up",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A tool to help clean up files in a directory",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "change": "yarn beachball --since HEAD",
-    "check": "yarn beachball check --branch main --since origin/main --keep-change-files --no-fetch",
+    "check": "yarn beachball check --branch main --since origin/main --disallow-deleted-change-files --no-fetch",
     "bump": "yarn beachball bump --branch main --since origin/main --keep-change-files --no-fetch"
   },
   "author": "Larry Kiniu",
