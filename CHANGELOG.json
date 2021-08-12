@@ -1,0 +1,20 @@
+{
+  "name": "clean-up",
+  "entries": [
+    {
+      "date": "Thu, 12 Aug 2021 11:54:28 GMT",
+      "tag": "clean-up_v1.0.1",
+      "version": "1.0.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "lkiniu@microsoft.com",
+            "package": "clean-up",
+            "comment": "add beachball for bumping package version",
+            "commit": "d01147c6a8ca04fe94f438936c4796c61ce418d5"
+          }
+        ]
+      }
+    }
+  ]
+}
