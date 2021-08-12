@@ -2,6 +2,21 @@
   "name": "clean-up",
   "entries": [
     {
+      "date": "Thu, 12 Aug 2021 13:03:42 GMT",
+      "tag": "clean-up_v1.0.4",
+      "version": "1.0.4",
+      "comments": {
+        "patch": [
+          {
+            "author": "lkiniu@microsoft.com",
+            "package": "clean-up",
+            "comment": "track changelog files",
+            "commit": "614b5ace3f3e3423eb702f2b05f3031cac1fa9bc"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 12 Aug 2021 13:02:10 GMT",
       "tag": "clean-up_v1.0.3",
       "version": "1.0.3",
