@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "change": "yarn beachball",
-    "check": "yarn beachball check"
+    "check": "yarn beachball check",
+    "bump": "yarn beachball bump"
   },
   "author": "Larry Kiniu",
   "license": "MIT",
