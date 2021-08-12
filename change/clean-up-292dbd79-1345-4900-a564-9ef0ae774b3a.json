@@ -1,7 +1,0 @@
-{
-  "type": "patch",
-  "comment": "add beachball for bumping package version",
-  "packageName": "clean-up",
-  "email": "lkiniu@microsoft.com",
-  "dependentChangeType": "patch"
-}
