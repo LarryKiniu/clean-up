@@ -1,7 +1,0 @@
-{
-  "type": "patch",
-  "comment": "update readme",
-  "packageName": "clean-up",
-  "email": "lkiniu@microsoft.com",
-  "dependentChangeType": "patch"
-}
