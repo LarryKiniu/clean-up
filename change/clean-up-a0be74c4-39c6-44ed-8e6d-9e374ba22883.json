@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "changed readme file permissions",
+  "packageName": "clean-up",
+  "email": "ngethelawrence@gmail.com",
+  "dependentChangeType": "patch"
+}
