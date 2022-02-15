@@ -12,6 +12,6 @@
   "author": "Larry Kiniu",
   "license": "MIT",
   "devDependencies": {
-    "beachball": "file:../beachball"
+    "beachball": "2.6.1"
   }
 }
